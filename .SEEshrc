@@ -1,0 +1,6 @@
+cd [dir]
+pwd
+help
+exit
+set var [value]
+unset var
